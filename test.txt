@@ -1,3 +1,4 @@
 test
 adding more text
 Beta is coming
+Beta has ended
